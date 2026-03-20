@@ -1,0 +1,128 @@
+License v1.0
+Copyright (c) Pillusioner
+
+This license applies to all files contained in this resource pack, including but not limited to textures, models, sounds, metadata, and any derivative assets.
+
+1. Commercial Use — Prohibited
+
+* Any form of commercial use is strictly prohibited.
+* This includes, but is not limited to, selling, paid distribution, monetized redistribution, paywalled access, or inclusion in any service or product that generates revenue.
+* Exceptions may only be granted with explicit written permission from the author.
+
+2. Redistribution of Original Files — Restricted
+
+* Public redistribution of the original, unmodified files is strictly prohibited.
+
+* This includes uploading to websites, file hosting services, public repositories, forums, or any platform accessible to an unspecified audience.
+
+* Private sharing is permitted only if ALL of the following conditions are met:
+  a) The files are shared within a clearly defined and limited group (e.g., friends, team members)
+  b) The files are not publicly accessible or indexed
+  c) No payment, monetization, or indirect compensation is involved
+
+3. Redistribution of Modified Versions — Conditionally Allowed
+
+* Redistribution of modified versions is permitted only if ALL of the following conditions are met:
+  a) There is any detectable difference in visual appearance, audio output, or in-game behavior (the magnitude of difference does not matter)
+  b) All credit requirements defined in Section 4 are fully satisfied
+  c) The distribution does not imply endorsement, sponsorship, or affiliation with the original author
+
+4. Credit Requirements (Mandatory)
+
+* The following information MUST be included in all cases:
+  a) Original author name: “Pillusioner”
+  b) Original source URL (download source of the original pack)
+  c) A clear statement that the inherited parts remain under this license
+
+* Credit MUST be included in BOTH:
+
+  * assets/texts/credits.json
+  * README file
+
+* If no README file exists, assets/texts/credits.json alone is sufficient.
+
+* Credit must be placed in a location and format that is easily visible and accessible to users.
+
+* If the original source URL does not exist or cannot be verified, redistribution is strictly prohibited.
+
+5. Media Usage — Allowed
+
+* Use in videos, streams, screenshots, and other non-distributive media is fully permitted.
+* Monetization of such media is allowed.
+* Credit is not required but appreciated.
+
+6. Scope of Application
+
+* This license applies to:
+
+  * All original files in this resource pack
+  * Any extracted, edited, or repackaged versions
+  * Any derivative works created from these files
+
+* Any attempt to bypass these terms through superficial or technical modifications will be treated as a violation.
+
+7. Server Distribution and Integration
+
+* Direct distribution of original, unmodified files via servers (including automatic resource pack download) is considered public redistribution and is strictly prohibited.
+
+* Integration into a server-specific resource pack is permitted only if ALL of the following conditions are met:
+  a) The assets are modified
+  b) Credit requirements defined in Section 4 are satisfied
+  c) No implication of endorsement by the original author
+
+* The following cases are considered unmodified:
+
+  * File renaming only
+  * Directory restructuring
+  * Model reference changes only
+  * Any case where the in-game result is completely identical
+
+* Server access must be limited strictly to individuals who have been directly known or personally acknowledged by the server administrator.
+  If participation is possible by individuals outside of this scope, it will be considered public distribution.
+
+8. Definitions
+
+* “Modified”:
+  Any change that results in any detectable difference in visual, audio, or behavioral outcome
+
+* “Unmodified”:
+  Any asset that produces an identical in-game result
+
+* “Functional Outcome”:
+  The final visible, audible, or behavioral result experienced in-game
+
+* “Public Distribution”:
+  Any distribution method accessible to an unspecified or uncontrolled audience
+
+* “Private Sharing”:
+  Distribution within a clearly limited and controlled group
+
+* “Commercial Use”:
+  Any use that directly or indirectly generates revenue
+
+* “Credit”:
+  A display that satisfies all requirements defined in Section 4
+
+9. Enforcement
+
+* Violations of this license may result in takedown requests, DMCA notices, or further action if necessary.
+
+10. Interpretation
+
+* Interpretation of this license shall primarily follow the judgment of the author.
+* However, interpretations that are clearly unreasonable or socially unacceptable shall not be enforced.
+
+11. No Warranty
+
+* This resource pack is provided “as is” without warranty of any kind.
+* The author is not responsible for any damages arising from its use.
+
+12. Original Distribution Exception
+
+* This license does not impose restrictions on the original distribution of this resource pack by the author “Pillusioner”.
+
+* The author retains full rights to distribute, modify, publish, monetize, or otherwise use the original version of this resource pack without being bound by the restrictions defined in this license.
+
+* The terms of this license apply only to third parties who obtain, use, modify, or redistribute the resource pack or its assets.
+
+* Any version officially distributed by the author is not considered a derivative work and is not subject to the redistribution or modification restrictions defined herein.
